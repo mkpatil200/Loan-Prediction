@@ -8,3 +8,5 @@ Tableau Link: https://public.tableau.com/app/profile/madhu.patil7998/viz/LoanPre
 
 
 Google Colab Link: https://colab.research.google.com/drive/1J8LVMtSxqeWc76DUaAk1el97BSfO99EI?usp=sharing
+
+https://user-images.githubusercontent.com/85861395/141284807-cd6ad461-d32e-4959-b5e5-a3d273bfa8fb.mp4
